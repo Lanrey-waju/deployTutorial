@@ -1,4 +1,4 @@
-ame: Continuous Integration and Delivery
+name: Continuous Integration and Delivery
 
 on: [push]
 
