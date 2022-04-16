@@ -8,7 +8,7 @@ then
       sleep 0.1
     done
 
-    echo "PostgreSQL started"
+    echo "PostgreSQL Started and ready to accept connections!"
 fi
 
 python manage.py flush --no-input
